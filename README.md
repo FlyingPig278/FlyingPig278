@@ -1,9 +1,9 @@
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=FlyingPig278" />   
+  <img src="https://github-readme-stats.vercel.app/api?username=FlyingPig278&locale=cn" />   
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingPig278&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingPig278&layout=compact&locale=cn" />
 </p>
 
 <!--START_SECTION:activity-->
