@@ -9,7 +9,7 @@
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingPig278&layout=compact&locale=cn" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyingPig278&layout=compact&locale=cn&hide=CMake" />
 </p>
 
 ### :zap: 近期活动
