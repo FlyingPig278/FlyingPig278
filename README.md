@@ -1,4 +1,9 @@
-### :eyes: 欢迎来到FlyingPig278的主页
+### :eyes: 欢迎来到FlyingPig278的主页  
+我只是一个刚开始学着写代码不到4个月的高一牲，~~代码很水~~  
+
+就让这里的代码见证我的编程学习之路吧，随后我会将我正在尝试制作的博客也托管到GitHub上。  
+  
+2022/12/27 于 Chongqing,China.
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=FlyingPig278&locale=cn" />   
 </p>  
