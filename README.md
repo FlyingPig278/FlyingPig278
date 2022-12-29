@@ -14,8 +14,8 @@
 
 ### :zap: 近期活动
 <!--START_SECTION:activity-->  
-1. 🎉 Merged PR [#1](https://github.com/FlyingPig278/FlyingPig278/pull/1) in [FlyingPig278/FlyingPig278](https://github.com/FlyingPig278/FlyingPig278)
-2. 💪 Opened PR [#1](https://github.com/FlyingPig278/FlyingPig278/pull/1) in [FlyingPig278/FlyingPig278](https://github.com/FlyingPig278/FlyingPig278)
+1. 🎉 Merged PR [#1](https://github.com/FlyingPig278/ProgramLearning/pull/1) in [FlyingPig278/ProgramLearning](https://github.com/FlyingPig278/ProgramLearning)
+2. 💪 Opened PR [#1](https://github.com/FlyingPig278/ProgramLearning/pull/1) in [FlyingPig278/ProgramLearning](https://github.com/FlyingPig278/ProgramLearning)
 <!--END_SECTION:activity-->
 
 
